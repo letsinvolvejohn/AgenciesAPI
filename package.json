@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/letsinvolvejohn/AgenciesAPI#readme",
   "dependencies": {
-    "json-server": "0.16.2"
+    "json-server": "0.16.2",
+    "node-sass": "^5.0.0"
   }
 }
