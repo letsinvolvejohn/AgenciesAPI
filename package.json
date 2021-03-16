@@ -1,0 +1,27 @@
+{
+  "name": "google_webagencyapi",
+  "version": "1.0.0",
+  "description": "Web Agency API using data from Google Maps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letsinvolvejohn/AgenciesAPI.git"
+  },
+  "keywords": [
+    "Agency",
+    "API",
+    "Northeast"
+  ],
+  "author": "InvolveJohn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letsinvolvejohn/AgenciesAPI/issues"
+  },
+  "homepage": "https://github.com/letsinvolvejohn/AgenciesAPI#readme",
+  "dependencies": {
+    "json-server": "0.16.2"
+  }
+}
