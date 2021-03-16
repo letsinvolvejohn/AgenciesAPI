@@ -1,0 +1,58 @@
+{
+    "Agencies": [
+        {
+            "id": 0,
+            "name": "Arch",
+            "location": "Office 3.04, Baltimore House Baltic Business Quarter, Abbotts Hill, Gateshead NE8 3DF",
+            "telephone": "(0191) 432 8092",
+            "websiteURL": "https://www.wearearch.com",
+            "opening-times": "0900 - 1730"
+        },
+
+        {
+            "id": 2,
+            "name": "Union Room Web Design",
+            "location": "17, Quay Level, St Peter's Wharf, Newcastle upon Tyne NE6 1TZ",
+            "telephone": "(0191) 228 9444",
+            "websiteURL": "https://www.unionroom.com",
+            "opening-times": "0900 - 1730"
+        },
+
+        {
+            "id": 3,
+            "name": "Peacock Carter",
+            "location": "Baltic Business Centre, Proto, Quarter, Gateshead NE8 3DF",
+            "telephone": "(0191) 375 5713",
+            "websiteURL": "https://www.peacockcarter.com",
+            "opening-times": "0900 - 1700"
+        },
+
+        {
+            "id": 4,
+            "name": "Blue Octo Web design & development",
+            "location": "The Clervaux Exchange Conference & Business Centre, Clervaux Terrace, Jarrow NE32 5UP",
+            "telephone": "(0)7427194792",
+            "websiteURL": "https://www.blueocto.co.uk",
+            "opening-times": "0900 - 1700"
+        },
+
+        {
+            "id": 5,
+            "name": "WayFresh",
+            "location": "Clavering House, Clavering Pl, Newcastle upon Tyne NE1 3NG",
+            "telephone": "(0191) 244 9976",
+            "websiteURL": "https://www.wayfresh.co.uk",
+            "opening-times": "0900 - 1730"
+        },
+
+        {
+            "id": 6,
+            "name": "Arch",
+            "location": "Carliol Studios, 5 Carliol Square, Newcastle upon Tyne NE1 6UF",
+            "telephone": "(0191) 580 8050",
+            "websiteURL": "http://design.el-roboto.co.uk",
+            "opening-times": "0900 - 1700"
+        }
+
+    ]
+}
